@@ -1,11 +1,5 @@
-
 const Nam = () => {
+  return <div>작업끝</div>;
+};
 
-  return (
-    <div>
-      작업끝!
-    </div>
-  )
-}
-
-export default Nam
+export default Nam;
