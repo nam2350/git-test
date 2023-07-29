@@ -1,5 +1,5 @@
 const Test = () => {
-  return <div>아메리카노</div>;
+  return <div>css수정</div>;
 };
 
 export default Test;
